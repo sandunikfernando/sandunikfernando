@@ -2,6 +2,8 @@
 
 🔭 I’m currently working as an **Intern Airflow L1 Support @iVedha** and building projects in backend development and AI-based systems.
 
+💼 I have 1 year of experience as a Software Engineer Intern at Virtusa, where I gained hands-on experience in software development, teamwork, and real-world project environments.
+
 🌱 I’m currently learning **Data Engineering, Artificial Intelligence, Machine Learning, Data Science, and backend development**.
 
 👯 I’m looking to collaborate on **AI, Machine Learning, and backend development projects**.
