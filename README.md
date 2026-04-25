@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sanduni Fernando
 
-🔭 I’m currently working as an **Data Engineer Intern | Airflow L1 Support at iVedha** and building projects in backend development and AI-based systems.
+🔭 I’m currently working as a **Data Engineer Intern | Airflow L1 Support at iVedha** and building projects in backend development and AI-based systems.
 
 💼 I have 1 year of experience as a Software Engineer Intern at Virtusa, where I gained hands-on experience in software development, teamwork, and real-world project environments.
 
